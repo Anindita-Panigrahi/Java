@@ -1,5 +1,4 @@
 
-
 public class stair {
     public static void main(String args[]){
         int n=3;
