@@ -1,4 +1,4 @@
-
+package dp;
 
 public class stair {
     public static void main(String args[]){
